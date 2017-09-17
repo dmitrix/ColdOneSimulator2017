@@ -1,7 +1,7 @@
 ![Cold One Sim Logo](http://dmitrix.com/res/coldone.png)
 
 ## Crack Open a Virtual Cold One!
- Watch the video!
+ Watch the video!  
  <a href="http://www.youtube.com/watch?feature=player_embedded&v=yQL-FdYDNPI
 " target="_blank"><img src="http://img.youtube.com/vi/yQL-FdYDNPI/0.jpg" 
 alt="Crack Open a Virtual Cold One" width="240" height="180" border="10" /></a>
